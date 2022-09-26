@@ -1,1 +1,24 @@
-/* Write CSS code here */
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+p{
+    color: lawngreen;
+}div{
+    text-align: center;
+    
+}div img{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    padding: 15px;
+
+}span{
+   font-family: Fraunces;
+}
